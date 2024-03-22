@@ -15,8 +15,6 @@ from openpyxl import load_workbook
 
 #######################  Parameters  ##################################
 
-# https://realpython.com/python-toml/
-# ? put params in a .toml file  --  variables define settings
 """set parameters for the program
 
    creates or updates earnings, p/e, and margin data from
@@ -35,8 +33,8 @@ file structure
 
 """
 
-data_dir = "/Users/richardkopcke/Dropbox/Stock Analysis/sp_data_dir"
-code_dir = "/Users/richardkopcke/Dropbox/Stock Analysis/Python_code_dir"
+data_dir = "/Users/.../sp_data_dir"
+code_dir = "/Users/.../Python_code_dir"
 
  # set working directory to the code directory
 os.chdir(code_dir)
