@@ -70,8 +70,8 @@ import matplotlib.patches as mpatches
 
 #=================  Global Parameters  ================================
 # set paramaters
-data_dir = "/Users/richardkopcke/Dropbox/Stock Analysis/sp_data_dir"
-code_dir = "/Users/richardkopcke/Dropbox/Stock Analysis/Python_code_dir"
+data_dir = "/Users/.../sp_data_dir"
+code_dir = "/Users/.../Python_code_dir"
 
 page0_suptitle = " \nPrice-Earnings Ratios for the S&P 500"
 proj_eps_suptitle = " \nCalendar-Year Earnings per Share for the S&P 500"
